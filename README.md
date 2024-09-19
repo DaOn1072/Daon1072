@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 
 ![제목을-입력해주세요_](https://github.com/user-attachments/assets/712541c8-31ec-49a3-9def-d2e5c5a16e3a)
 
-![MySQL Logo](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+![MySQL Logo](https://img.shields.io/badge/MySQL-0089D6?style=for-the-badge&logo=mysql&logoColor=white)
+![Python Logo](https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white)
+![Java Logo](https://img.shields.io/badge/Java-CC6699?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React Logo](https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS Logo](https://img.shields.io/badge/Amazon_AWS-777BB4?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Colab Logo](https://img.shields.io/badge/Colab-F15B2A?style=for-the-badge&logo=googlecolab&color=525252)
+</div>
