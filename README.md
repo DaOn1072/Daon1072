@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ![제목을-입력해주세요_](https://github.com/user-attachments/assets/712541c8-31ec-49a3-9def-d2e5c5a16e3a)
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=4479A1" />
+[<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=4479A1" />](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
