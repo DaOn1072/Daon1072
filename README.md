@@ -37,6 +37,9 @@ it 계열 3년 | 빅데이터 계열 1년
 인공지능 음향 분류 모델 학습 | 관제 대시보드 | AWS 연동
 </br>
 
+<h4> 🗓 진행 기간 🗓 </h4>
+<img src="https://github.com/user-attachments/assets/8e40bf54-d1c4-40f2-b488-58a54504be7e" style="width: 500px; height: auto; ">
+
 <h4> 사용 언어(프로그램)</h4>
 
 ![MySQL Logo](https://img.shields.io/badge/MySQL-0089D6?style=for-the-badge&logo=mysql&logoColor=white)
