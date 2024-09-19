@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![제목을-입력해주세요_](https://github.com/user-attachments/assets/712541c8-31ec-49a3-9def-d2e5c5a16e3a)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
