@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p align='center'>
-<img src='[[https://github.com/DaOn1072/Daon1072/issues/1#issue-2535301178](https://github.com/DaOn1072/Daon1072/issues/1#issue-2535301178)](https://github.com/DaOn1072/Daon1072/issues/1#issue-2535301178)'>
-</p>
+![제목을-입력해주세요_](https://github.com/user-attachments/assets/712541c8-31ec-49a3-9def-d2e5c5a16e3a)
