@@ -18,13 +18,20 @@ Here are some ideas to get you started:
 
 파이썬과 DB가 가장 자신있는 코딩 언어이지만, 오류 수정을 위해 반복 작업하는 코딩 활동을 좋아합니다✨
 
-</br>
 <h4> 📖 전공 📖 </h4>
 it 계열 3년 | 빅데이터 계열 1년
 
+<hr />
 <h4> 🛠 프로젝트 🛠 </h4>
 
 프로젝트명 | 여성안심 귀갓길 비명 인식 AIoT </br>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/357ba1ed-684e-4757-951d-ddb7bfabf5ce" alt="이미지 1" style="width: 200px; height: auto; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 2" style="width: 230px; height: auto; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/86b7a1a4-e427-4e35-b4eb-605ada1802fd" alt="이미지 3" style="width: 400px; height: auto; object-fit: cover;">
+</div>
+</br>
 해당 프로젝트에서 데이터 수집, 인공지능 학습, 관제 웹 시스템 개발 업무를 진행했습니다.</br>
 </br>
 인공지능 음향 분류 모델 학습 | 관제 대시보드 | AWS 연동
@@ -39,10 +46,7 @@ it 계열 3년 | 빅데이터 계열 1년
 ![AWS Logo](https://img.shields.io/badge/Amazon_AWS-777BB4?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Colab Logo](https://img.shields.io/badge/Colab-F15B2A?style=for-the-badge&logo=googlecolab&color=525252)
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/fea791ad-011c-4453-9330-76b23c0fc9ac" alt="이미지 1" style="width: 200px; height: auto;">
-    <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 2" style="width: 200px; height: auto;">
-    <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 3" style="width: 200px; height: auto;">
-</div>
+<hr />
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaOn1072&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaOn1072&layout=compact)
