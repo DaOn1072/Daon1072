@@ -39,3 +39,10 @@ it 계열 3년 | 빅데이터 계열 1년
 ![AWS Logo](https://img.shields.io/badge/Amazon_AWS-777BB4?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Colab Logo](https://img.shields.io/badge/Colab-F15B2A?style=for-the-badge&logo=googlecolab&color=525252)
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/fea791ad-011c-4453-9330-76b23c0fc9ac" alt="이미지 1" style="width: 200px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 2" style="width: 200px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/8d498c30-9d43-4b6f-9a8a-1c28701b573e" alt="이미지 3" style="width: 200px; height: auto;">
+</div>
+
+
