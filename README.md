@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ![제목을 입력해주세요_-001 (10)](https://github.com/user-attachments/assets/c368e314-3de2-4706-a57e-9379ec115b5c)
-</br>
-안녕하세요! 저는 코딩 언어와 SQL문 작성을 좋아합니다!🌱 
+
+</br>안녕하세요! 저는 코딩 언어와 SQL문 작성을 좋아합니다!🌱 
 
 가장 자신 있는 코딩 언어는 파이썬과 DB이며, 오류 수정을 위해 반복 작업하는 코딩 활동을 좋아합니다✨
 
