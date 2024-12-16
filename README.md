@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 it 계열 3년 | 빅데이터 계열 1년
 
 <h4> 🖥 자격증 🖥 </h4>
-1) ITQ OA 마스터 </br>
-2) 정보처리기사 필기 (실기 취득 중)
+1) 정보처리기사 </br>
+2) SQLD </br>
+3) ITQ OA 마스터
 
 <hr />
 <h4> 주 사용 언어 </h4>
