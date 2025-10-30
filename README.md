@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![제목을 입력해주세요_-001 (10)](https://github.com/user-attachments/assets/c368e314-3de2-4706-a57e-9379ec115b5c)
+
 
 </br>안녕하세요! 저는 코딩 언어와 SQL문 작성을 좋아합니다!🌱 
 
